@@ -1,0 +1,5 @@
+Send emails form the command line.
+
+Usage:
+  gmailto <emails> <subject> [<message>]
+  gmailto -h | --help | --version
