@@ -1,6 +1,6 @@
 {
   "name"        : "gmailto",
-  "version"     : "0.1.0",
+  "version"     : "0.1.1",
   "description" : "Send Gmails from your command line.",
 
   "keywords"    : ["gmail", "terminal"],
@@ -14,5 +14,6 @@
     "docopt"    : "0.4.x",
     "prompt"    : "0.2.x",
     "emailjs"   : "0.3.x"
-  }
+  },
+  "preferGlobal": true
 }
