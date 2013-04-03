@@ -13,7 +13,8 @@
   "dependencies": {
     "docopt"    : "0.4.x",
     "prompt"    : "0.2.x",
-    "emailjs"   : "0.3.x"
+    "emailjs"   : "0.3.x",
+    "keychain"  : "0.0.3"
   },
   "preferGlobal": true
 }
