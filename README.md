@@ -21,6 +21,10 @@ The first time you run `gmailto`, it'll ask you for your name and your Gmail cre
 ```
 This information gets persisted in a file called `.gmailto.json` under your `HOME` directory. So if you want to reset your data, you can either edit this file or remove it and run `gmailto` again.
 
+## Security
+
+Password is securely stored in *Keychain* tool.
+
 ## Roadmap
 - Attachments: idea of usage `gmailto john@doe.com "Document" --attach ~/some_document.doc`
 - List of contacts (alias?): idea of usage `gmailto mom,dad "How are you?"`
